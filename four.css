@@ -1,0 +1,8 @@
+.brd button{
+  width: 100px;
+  height: 100px;
+  background-color:gray;
+  margin: 1px;
+  border: 4px dashed coral;
+  border-radius: 50%;
+}
