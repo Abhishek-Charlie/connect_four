@@ -31,7 +31,7 @@ function retColor(rowIndex,colIndex)
 function chBottom(colIndex)
 {
   var colorReport=retColor(5,colIndex);
-  for (var row = 5; row > 0 ; row--) {
+  for (var row = 6; row > 0 ; row--) {
     colorReport=retColor(row,colIndex);
     if(colorReport=== 'rgb(128, 128, 128)')
      {
