@@ -81,7 +81,7 @@ function vWinCheck()
 
 function dWinCheck()
 {
-  for(var col= 0; col<5 ;col++)
+  for(var col= 0; col<=5 ;col++)
    {
       for(var row= 0; row<7 ;row++)
       {
